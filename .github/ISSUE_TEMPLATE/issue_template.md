@@ -1,6 +1,6 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
+name: DX Painpoint
+about: Create a report to help us improve developer experience!
 title: ''
 labels: bug
 assignees: ''
